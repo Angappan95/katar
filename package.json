@@ -1,0 +1,12 @@
+{
+  "name": "katar",
+  "version": "1.0.0",
+  "description": "Parse files and get author block",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "angappan",
+  "license": "ISC"
+}
